@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pong-React-TypeScript/static/css/main.38d20aec.chunk.css",
+    "main.js": "/Pong-React-TypeScript/static/js/main.f4d2fb5d.chunk.js",
+    "main.js.map": "/Pong-React-TypeScript/static/js/main.f4d2fb5d.chunk.js.map",
+    "runtime-main.js": "/Pong-React-TypeScript/static/js/runtime-main.61eb15b1.js",
+    "runtime-main.js.map": "/Pong-React-TypeScript/static/js/runtime-main.61eb15b1.js.map",
+    "static/js/2.782d6207.chunk.js": "/Pong-React-TypeScript/static/js/2.782d6207.chunk.js",
+    "static/js/2.782d6207.chunk.js.map": "/Pong-React-TypeScript/static/js/2.782d6207.chunk.js.map",
+    "static/js/3.b8e35f99.chunk.js": "/Pong-React-TypeScript/static/js/3.b8e35f99.chunk.js",
+    "static/js/3.b8e35f99.chunk.js.map": "/Pong-React-TypeScript/static/js/3.b8e35f99.chunk.js.map",
+    "index.html": "/Pong-React-TypeScript/index.html",
+    "static/css/main.38d20aec.chunk.css.map": "/Pong-React-TypeScript/static/css/main.38d20aec.chunk.css.map",
+    "static/js/2.782d6207.chunk.js.LICENSE.txt": "/Pong-React-TypeScript/static/js/2.782d6207.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61eb15b1.js",
+    "static/js/2.782d6207.chunk.js",
+    "static/css/main.38d20aec.chunk.css",
+    "static/js/main.f4d2fb5d.chunk.js"
+  ]
+}
