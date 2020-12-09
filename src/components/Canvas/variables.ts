@@ -1,0 +1,9 @@
+export const grid = 15;
+export const paddleHeight = grid * 5;
+export let paddleSpeed = 6;
+export let ballSpeed = 4;
+export let record = 0;
+export let count = 0;
+export let secret = false;
+export let secret_count = 0;
+export let ballColor = '#000';
